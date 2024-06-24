@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.adone {
+  width: 200px;
+  height: 150px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 0;
+  text-align: center;
+}
+
+.backgorund-container {
+  display: flex;
+}
+
+.first-container {
+  background-color: #cbd5e1;
+  width: 550px;
+}
+
+.second-container {
+  background-color: #f1f5f9;
+}
